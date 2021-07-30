@@ -12,3 +12,7 @@ This project requires prior knowledge of Keras, Matplotlib, Scikit-learn, Pandas
 
 ## Accuracy
 Achieved an MSE score of 91%.
+
+## Example of Prediction
+![image](https://user-images.githubusercontent.com/62536511/127618545-c603b78e-bd40-4c36-ba18-46264bb9e048.png)
+
