@@ -9,6 +9,7 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 The Dataset of Python Project:
 ![](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
+
 ## Libraries
 This project requires prior knowledge of Keras, Matplotlib, Scikit-learn, Pandas, PIL and image classification.
 
